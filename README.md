@@ -6,6 +6,12 @@ Infrastructure , Cloud , Embedded , Basic Linux (Ubuntu) , Backend
 
 I make a Infrastructur like SME at my home and Manage with Remote use Grafana and Prometheus for monitor , I been use Cloudflare , AWS , Azure , Embedded as a ArduinoESP32 , Linux useing UbuntuCLI and Backend As FastAPI
 
+
+* 🌍  I'm based in Thailand , Bangkok
+* ✉️  You can contact me at [nareubad112@gmail.com]
+* (mailto:nareubad112@gmail.com)
+* 👥  I'm looking to collaborate on Infrastructure , Cloud , Networking
+
 <table>
   <tr>
     <td valign="top">
