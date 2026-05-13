@@ -8,8 +8,7 @@ I make a Infrastructur like SME at my home and Manage with Remote use Grafana an
 
 
 * 🌍  I'm based in Thailand , Bangkok
-* ✉️  You can contact me at [nareubad112@gmail.com]
-* (mailto:nareubad112@gmail.com)
+* ✉️  You can contact me at [nareubad112@gmail.com](mailto:nareubad112@gmail.com)
 * 👥  I'm looking to collaborate on Infrastructure , Cloud , Networking
 
 <table>
